@@ -1,0 +1,30 @@
+{
+  "name": "openseadragon-fabricjs-overlay",
+  "description": "An OpenSeadragon plugin that adds fabricjs canvas overlay capability.",
+  "main": "openseadragon-fabricjs-overlay.js",
+  "version": "0.0.2",
+  "authors": [
+    "Alexey Tikhonov"
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "openseadragon",
+    "plugin",
+    "canvas",
+    "overlay"
+  ],
+  "homepage": "https://github.com/robhicks/OpenseadragonFabricjsOverlay",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "fabricjs",
+    "openseadragon",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "openseadragon": "^2.2.1",
+    "fabric.js": "fabric#^1.6.4"
+  }
+}
